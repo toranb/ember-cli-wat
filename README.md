@@ -1,25 +1,9 @@
-# Ember-cli-wat
+step 1 - npm install it using save-dev
 
-This README outlines the details of collaborating on this Ember addon.
+npm install --save-dev ember-cli-wat
 
-## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+step 2 - add this to a template in your app
 
-## Running
+{{ember-cli-wat focus=false}}
 
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
